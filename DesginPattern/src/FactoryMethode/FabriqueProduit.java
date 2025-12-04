@@ -1,4 +1,4 @@
-package Desgin_pertern;
+package FactoryMethode;
 
 public class FabriqueProduit {
     public static final String typeA="A";

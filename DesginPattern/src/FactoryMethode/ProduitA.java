@@ -1,4 +1,4 @@
-package Desgin_pertern;
+package FactoryMethode;
 
 public class ProduitA extends Produit {
     public ProduitA() {

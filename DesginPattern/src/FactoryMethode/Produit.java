@@ -1,4 +1,4 @@
-package Desgin_pertern;
+package FactoryMethode;
 
 public abstract class Produit {
     public abstract void methodeproduit();

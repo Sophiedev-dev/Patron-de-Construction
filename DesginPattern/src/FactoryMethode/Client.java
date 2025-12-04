@@ -1,4 +1,4 @@
-package Desgin_pertern;
+package FactoryMethode;
 
 public class Client {
     public static void main(String[] args) {
